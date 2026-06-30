@@ -1,0 +1,6 @@
+{
+  "name": "Dish Spinner",
+  "description": "A lightweight, user-friendly roulette wheel app to help you decide what to eat by spinning a custom dish wheel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
